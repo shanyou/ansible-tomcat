@@ -8,3 +8,8 @@ https_port: 8443
 
 admin_username: admin
 admin_password: adminsecret
+
+firewall_enable: false
+
+tomcat_dir: /usr/share/tomcat
+tomcat_set_catalina_home: true
